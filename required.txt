@@ -1,0 +1,8 @@
+streamlit
+scikit-learn
+pandas
+joblib
+
+
+
+you will need all these things to run my app.
