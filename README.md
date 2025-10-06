@@ -20,7 +20,7 @@ This is a data science project that includes:
 
 ## 🧠 Machine Learning Model
 
-- Algorithm Used: `Linear Regression` (or mention your algorithm here)
+- Algorithm Used: `Linear Regression` & `Random Forest`
 - Evaluation Metrics: `R² Score`, `MSE`, `MAE`
 - Trained on real-world inspired employee dataset
 
